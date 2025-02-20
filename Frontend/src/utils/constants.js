@@ -1,2 +1,2 @@
-export const api_url = 'http://localhost:3000/task'
-export const api_url_user = 'http://localhost:3000/user'
+export const api_url = 'https://taskbuddy-x9ss.onrender.com/task'
+export const api_url_user = 'https://taskbuddy-x9ss.onrender.com/user'
